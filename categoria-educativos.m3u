@@ -1,0 +1,7 @@
+#EXTM3U size="medium"
+#EXTINF:-1 tvg-id="33ca660c950cb2c4" tvg-name="CANAL FUTURA (Canal FDR)" group-title="Educativos" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV8qRfrWem2c21tLEsuHXJz46HFOur2yy61VMepcJyFrUeJcxGcTICLCH9cc3lAmhVeBkV0-6D5f64hcg4x8dsFIen4xcHQB5T_6ro6iB4FuAaqK0d4fb3zL-i2smUepH47BGtDtXNnfUODa4wI4j2OLavjNe48NdxZQg8OuUwXuHJHu1xOOXnSPUXPVM/w200-h100/CANAL%20FUTURA.webp",CANAL FUTURA (Canal FDR)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-id="2f7003850d0d4f77" tvg-name="TV CULTURA" group-title="Educativos" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJuEMVJ9ZVPjQq59Ee3S31OUsK2sLvm6pRz_ca2G5hZhmEqZlrnlCbik8rFNzg-EKuTD2garX22qTIIyH2MLuqFsrhwRrKQz1DyHhJHyoG5TfHYqvlGuOn-RSRoyfQ_0YlJlFZrr5GSbWIPuyGy_iyDRAxm3Vnlb0sieG_NNAP7ZG5U_-XAgSR7ceNYA/s200/TV%20CULTURA.webp",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="5897a1aa9681318e" tvg-name="TV MEDICINA" group-title="Educativos" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxfVPDoDNAa4nhuK_ufs-GfQGbUZy3I8XWTJI9cYc5eExUDCb3XmvWSVLu0lPDGn1IDtbPkXZKOZZ6yRSNQENlV62ZNkdOAkg5ZYKqiez6IAULiJ-LuhpT3hTdO76kZWJdAnKg_93G_LhyphenhyphenZJMVnJLOrmxZBd2NKf3nayUcbyian8BNEf7pubyDMhqB-V0/w200-h100/TV%20MEDICINA.webp",TV MEDICINA
+https://video03.logicahost.com.br/tvmedicina/tvmedicina/playlist.m3u8

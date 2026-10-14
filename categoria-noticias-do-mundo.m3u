@@ -1,0 +1,7 @@
+#EXTM3U size="medium"
+#EXTINF:-1 tvg-id="c82033fbdf8e2ad7" tvg-name="ABC NEWS" group-title="Notícias do Mundo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYHjzeAuHJqFuB1EsP23PRXbhxgpov6V_OafAb_Y6fZdEOYDRJBaOQ9zFUFWXteEGqyo3FBBbCP_xeW6JzrOXcr-6iElHfFjGCaYNbR6A-f3e4m-Xc0Fk9mahC04Ty3d86q9ZTmAHmUs0Rsq4mz3CxX7rrtR5vRnuxGQPsX5OAhYj1ALVcJaor5rN2WA/w200-h100/ABC%20NEWS.jpg",ABC NEWS
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/playlist.m3u8
+#EXTINF:-1 tvg-id="2e614c99dee41250" tvg-name="AL JAZEERA" group-title="Notícias do Mundo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNgFligj7u4LXl5n0o7xtFlCb0C-YQ7D48oDFEJ0RHsYmYOTpOaW-AHdv7z_fvb6_K5_mHVggrTtPspaHNLoak6lAnzE72p1g9SZRqPMNBQEVtOV4vPUzJ_GJLRJ1j3lTJDq1XtKRJMuRE_AZCXYe-U4wlkTzUdOH36AU9GsL4pADHKhvZ4ssnr5h/w200-h100/AL%20JAZEERA.jpg",AL JAZEERA
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="bc4461fbfc343803" tvg-name="DW (espanhol)" group-title="Notícias do Mundo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmcHhWRiH_CeAbAj2QCK2-7Xa6YUuAeq2SSNFI2iQiI9ioKpO0CIGf1PdlYQHzoTMeqGa6NqblLMo0Kuz5vuHR5PlTV3YoWMi-e_oSn0M6j8yVjHA3YK9vYaQ-PIRSAtNoOCKL4tSMnbDCgKmcs6DOPMsii21C4waV109iSYMEGf22905TTmejpZmJ/w200-h100/DW.jpg",DW (espanhol)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8

@@ -1,1 +1,70 @@
-#EXTM3U
+#EXTM3U size="medium"
+#EXTINF:0 type="playlist" tvg-name="Agronegócios",Agronegócios
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-agronegocios.m3u
+#EXTINF:0 type="playlist" tvg-name="Animes",Animes
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-animes.m3u
+#EXTINF:0 type="playlist" tvg-name="Automóveis",Automóveis
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-automoveis.m3u
+#EXTINF:0 type="playlist" tvg-name="Católicos",Católicos
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-catolicos.m3u
+#EXTINF:0 type="playlist" tvg-name="Clássicos",Clássicos
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-classicos.m3u
+#EXTINF:0 type="playlist" tvg-name="Culinárias",Culinárias
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-culinarias.m3u
+#EXTINF:0 type="playlist" tvg-name="Desenhos",Desenhos
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-desenhos.m3u
+#EXTINF:0 type="playlist" tvg-name="Documentários",Documentários
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-documentarios.m3u
+#EXTINF:0 type="playlist" tvg-name="Educativos",Educativos
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-educativos.m3u
+#EXTINF:0 type="playlist" tvg-name="Evangélicos",Evangélicos
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-evangelicos.m3u
+#EXTINF:0 type="playlist" tvg-name="Faroestes",Faroestes
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-faroestes.m3u
+#EXTINF:0 type="playlist" tvg-name="Filmes",Filmes
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-filmes.m3u
+#EXTINF:0 type="playlist" tvg-name="Gamers",Gamers
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-gamers.m3u
+#EXTINF:0 type="playlist" tvg-name="Governamentais",Governamentais
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-governamentais.m3u
+#EXTINF:0 type="playlist" tvg-name="Músicas",Músicas
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-musicas.m3u
+#EXTINF:0 type="playlist" tvg-name="Notícias do Mundo",Notícias do Mundo
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-noticias-do-mundo.m3u
+#EXTINF:0 type="playlist" tvg-name="Notícias",Notícias
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-noticias.m3u
+#EXTINF:0 type="playlist" tvg-name="Novelas",Novelas
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-novelas.m3u
+#EXTINF:0 type="playlist" tvg-name="Pegadinhas",Pegadinhas
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-pegadinhas.m3u
+#EXTINF:0 type="playlist" tvg-name="Seriados",Seriados
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-seriados.m3u
+#EXTINF:0 type="playlist" tvg-name="TVs Abertas",TVs Abertas
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-tvs-abertas.m3u
+#EXTINF:0 type="playlist" tvg-name="Variedades",Variedades
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-variedades.m3u
+#EXTINF:0 type="playlist" tvg-name="Videoclipes Musical",Videoclipes Musical
+#EXTSIZE:medium
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-videoclipes-musical.m3u
