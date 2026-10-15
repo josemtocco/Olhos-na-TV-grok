@@ -15,6 +15,10 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="f8af6b7ebfa5c10c" tvg-name="REAL MADRID TV" group-title="Esportes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXi3B-mBCUycDw7gHaj1aUo7vYU_Pr490_7lTFWRaNVotu6gwD8mHDHWeh7DzddbvD1rcjNRRI99oItv7YQbQOipJBXZjOPJImPiENEQi6r1HVybTgTeqtZrsqMpWM3gRCafz__XEarsLMvn9v366nTWMk2HkgAu5gUMdUUwYtr90NYy2DKixe9GiPcU/s200/REALMADRID%20TV.webp",REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-id="4523f9fe4f01a9a6" tvg-name="RED BULL TV" group-title="Esportes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSuDEglPnn9IFcb36kNgLCtASJ46qOhz2p_ryO5udWGQul3hYgS3JdolwY_l4HVK_AKvL1ngzrdqpYvmXT3nMfn9d3L2tm7aQW5UNBegd42mDDZs7vKJ4kxoMkoJAdMi1F9QBce8MGyRXvtk8ZRoVvzqd7TIhr_YJAcV5Dhz_i8nBPpTydB0-o_rbcgig/s200/RED%20BULL%20TV.webp",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-id="28dd8a7d5b41b609" tvg-name="RS NEWS" group-title="Esportes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZQ0SYQZTPDksUIHHirc9FkvBUFB-e7nNExOr0d-XMrMrfRNizZdG-paQtaVj4TwrNQLcRZVp4Uj0QZOxSq4938QUROb0AaEm_97ohblTqA6Yx_GB8JsiMOmGNPqjMCu_GPgVLwOE7xgoXy3EInTir7VvO9P7UDjXruydxpD4LZLscy73KvG_I4jhWwg/s200/RS%20NEWS.webp",RS NEWS
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="650421b7e4d585d9" tvg-name="RS SPORTS" group-title="Esportes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI8PE5cj1tD161bPKjXNGy4ZPFQA0HgY_iFUlpq1PHNIR4h42IHFvPWL7I7fZhyR9kj2Vciyux_mfkVLtF9dm_4Q6fY7VtEhONAT-W_MYrHy1X1vtKW3UiFxN0naLNdFXufhPQAD7BT7UpEv2DzGIiRTG6lbUQGjlYWBAy_3ORN3MWPKm4tD-U7XPJft8/w200-h100/RS%20SPORTS.webp",RS SPORTS
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 tvg-id="5ed52a74c18e1022" tvg-name="RS SPORTS 2" group-title="Esportes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCy7ZjDcvunvx61ZXPuBnpxikyZU4NwUNt0YnLUUjZO08r8n8UqAiYYuGnKy-bgqnCEcoQ176dh0JVi3CFO0zmW61va6MxsuUAHmi67D5LJJOdrvcboF_9nRyFGnX6cUf99WugwktiyUbkplLw7Lcg7mgS1e-nZfFcYr6aX4CBU1RWRgUVRve8Q7kkCn0/w200-h100/RS%20SPORTS%202.webp",RS SPORTS 2
@@ -33,3 +37,5 @@ https://pop2.uniquetv.com.br/hls/uniquesports1.m3u8
 https://pop2.uniquetv.com.br/hls/uniquesports2.m3u8
 #EXTINF:-1 tvg-id="b40912401dfa3d78" tvg-name="UNIQUE SPORTS 3" group-title="Esportes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEtySYVXgDU0EkP6FCKy8q3aK_ylTxjeKhKvWxHagrfSG6YJXR4F9HUUdk7z9OceKNJ9kHEoTeYI8KnpKpNwEnzf94X9klwEF-xxY884qAk_kwUA8k0XDzZoWkB3zxua3Unvpqnx1LPfAjQ7ZOkMgRxn9C11Lq77d_YEw0x-LVBCHy56Nm3xYgmjV1yEw/s200/UNIQUE%20SPORTS%203.webp",UNIQUE SPORTS 3
 https://pop2.uniquetv.com.br/hls/uniquesports3.m3u8
+#EXTINF:-1 tvg-id="a162f1d6606cc230" tvg-name="XFC TV" group-title="Esportes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKDSzakmBZp6SIhXjQgBUCbaU2sSKPnLZddC8zzAp7-BTzoj13iWTyaN-Kd3xv5KlQQJLRklAsLo61giyFJ5sInqueck2C_LGTTVDMj9bBNJhfC1hLMU009wy4uJtAcNLf4scqyW2gSfle_TqVISb_6HrYXl-rq64wHzVStxJpQstDDAV_b246_l6cg8/s200/XFC%20TV.webp",XFC TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
