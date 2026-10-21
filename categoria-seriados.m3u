@@ -1,8 +1,6 @@
 #EXTM3U size="medium"
 #EXTINF:-1 tvg-id="dfaa6b12ccdd1eaa" tvg-name="AWTV" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ5to2O9SN87Nux5-UrlPESxuhDOQFlzua3tHO3T91QpQwlzyvkY9FNB3ebNjxyhGE7ufyRImLUEt9Ycoq3nqAEIioR_NO1Uy0PeL543NO2yXDgmUkiqlY2oYCZOAb2kveDdZPUS5qwjRMTc5nS_LKL_R2cGIypwVh18cMASvjy50Gcdr81d4FTsZy3rI/s200/AWTV.webp",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="d8f30437054c8f05" tvg-name="BS-TV ONLINE" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuzFIG9AnbTiIIbq7QR7VJ99fLTSV-ME3jIDkTJ_HBDoSjkR2dosfG4L75iX5uwdRKHPtPgKQI4-24PDQQyEsxW00CQ0WPyqWbx5Rzzo3WbZd__S1yk-qe0EH50qEeFqODjanb46NtbU0SB8KPuv6t35_ohjxQO7goC2uP67ZUa3cT_lcHM5ROB_bAaak/s200/BS-TV%20ONLINE.webp",BS-TV ONLINE
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-id="2b9d8edd6b953139" tvg-name="CANAL BSTV" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-tU96HmrU4h2PCGHOGfG6tXiqa2Y-idIf4kWRM4injlKZ1vIsBsvbncE2iwrivKlpDaSJz8_O0NyZIRsBOQFilkXQv4CBhZfo7i2F6OJTsicDEQw6WTquoIxbwuHJiystdMot2MA4OR5JfkLwGikOhLf_G8Zy6WgAuX2020R9MAOAcwsbP8hAlYZSlBI/s200/CANAL%20BSTV.webp",CANAL BSTV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 #EXTINF:-1 tvg-id="149075be94e51962" tvg-name="CARAVANA PLAY" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv68xjWCnNLU5yVel0CHnB6HkBuACJ-69dY5VI_COJJQ9slZvWIDmvSAH-e4bVYSmPmnABoO1SIcg5kJGaC4D9kfM3ZXrVuEM_dN3-ifsBnYoeizsyLZwaaUsT9jOKHmjcT9BBta_p36veEuD1sJBGG4kK47N4_p4fiJ5Rp-wy4ewwo13pLU_yELfj9lk/s200/CARAVANA%20PLAY.webp",CARAVANA PLAY
@@ -25,8 +23,6 @@ https://static.kanade.cl/hls/kanade.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="cbaa9186ee5af616" tvg-name="LUCAS TV" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizaaz2q5gh_LZSOleJw7yQb9FNnwH6ZJjFeaex4WhwFEueZmsB1YccrStJeEiMgbAEgNScQrY3-FD1WTMnRcvHAx9JBpKhD4lbNabtYO7SMBoWwSYD7sqMkkL8cwU6Som028A6ohp4Xr7B-kVjAnXWtOjyo2_Wme3RF4Sk61dhkyLC0cpcTX2AdQxhjMM/s200/LUCAS%20TV.webp",LUCAS TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
-#EXTINF:-1 tvg-id="10b5688c4b85997c" tvg-name="MBC BRASIL TV" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBvXdfHu1k6YPy4y2l-VQ06e2Y4Sv-YlXv7Jllj7bmifJ9TyNNRTI-Mz1VfwmudyeDqL41i5FmWd5Ym7Y1AZsgDu0xoHU76_tfBcB8vdYd1GCNe6FkBT1AFHrcY4Zh7PxbyHWwfmpxWLZe3R-qEe5l1eOnByPnuKTz-D82bk99cMWcAlYt19rzDCpMHRM/w200-h100/MBC%20BRASIL.webp",MBC BRASIL TV
-https://cdn.mbcbrasil.tv.br/mbc_web/index.m3u8
 #EXTINF:-1 tvg-id="844e8332ff9ed127" tvg-name="MULTICANAIS" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvBmcJXuokoBCckz5T-mtsbAeXaQDafF-DhkQd980NGdgYjsVBjBOjb8cGf5HYzV5JlDUYzjtICpE47D20vzyh5aCys761WlD8LNvPxYX7pmCI9t2Vzc1mF4XF84gRm_V0YbJkazkSgx-KQOu5-jRY9ntj0LXCcBqKS1K3Wv2jmClS0WqoUHY0VVm8DOk/w200-h100/MULTICANAIS.webp",MULTICANAIS
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="83c2708150264043" tvg-name="NBX TV" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiKvU7FrlkypO8jUqQHC46K9GOs0KB5hGXvCQrswL8GuWzh_jmGLD5EDAw1nls6LT2sbae5579HbPc3K5Mc13D_rjlRkw_28Obd2211TGUpJKWowokViaLyFU_w9NhFKud4uw574ukUE1R6PA97pBuuo5ECP8elGjODOsTGYFfFLivEfitiS7UrSqp3Bs/w200-h100/NBX%20TV.webp",NBX TV
@@ -99,8 +95,6 @@ https://stmv.jnbhost.com.br/tvpapagaio/tvpapagaio/playlist.m3u8
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 #EXTINF:-1 tvg-id="b6667c55e104069b" tvg-name="TV POTENGI" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja9VbeKtfPI4nEF57RM6z1EdhHrYDV6r9m8jFr74ueLVhnPlE4aYuyLpwr_A4GZJxWG7wCWyJvMDuhluR3BDKVIyJqOkRR-hA_3sVFKuofYJi5JczbMbEvRkliPR65ZNqimYJeiF9_gyE9wYk6swXbEIuMSPQPBRmsCVcOoEef3_C3eP00aZO73paMYwk/s200/TV%20POTENGI.webp",TV POTENGI
 https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
-#EXTINF:-1 tvg-id="6ec4e50f21f675ef" tvg-name="TV PROFISSÃO" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoWQKMZFL3kQd3I-PLHZVBsvY1XtqX5gDHCTiRoX7rbGpWtNZ7ummJVVDYJz7-D2ofEFpnsPE_NGsVCM1FLh8GbOhTh30Yd9ayHxfTTkzCPmDFGZPTzdj86l5HrA-WgzQrcvnGGuCetkmcNfXNVfW8phrInXNiJQ6u8lZ5Dr_l0-JMK0xYuMtw-WfeT4/w200-h100/TV%20PROFISS%C3%83O.webp",TV PROFISSÃO
-https://cdn.mbcbrasil.tv.br/tvprofissao_web/index.m3u8
 #EXTINF:-1 tvg-id="9724017abe011016" tvg-name="TV SANTA" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCSHJluv_IsztiDdBM7czfFkRf5RJ5-treA4JQ8Rt4abd43BUa62e2GhZzwTGnzXEfcupkTFzuRTvwov_xSzmatERisHkhHaJTjY1oUVVm36BxH3GsXvvK-LM-oEi8sWyK9elwpf0yDqnQRBBd9fi_JvqSjqDNBa3BbOUBf2MkXd927lSyJze3NYn_lXA/s200/TV%20SANTA.webp",TV SANTA
 https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
 #EXTINF:-1 tvg-id="2f90618f6c183e21" tvg-name="TV SONATA" group-title="Seriados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPPGZG5AZpYH5fdiW8zJLZ3A2tVyZfguzX4HwLnJEoD12vR4U-Zvz8UyhqkFzOG-RE58d980mLn9d1Al4zzDUwb4CAEpor6v3uAtUusWkvKynl3AiaWxBLPpgrPyQDEiy50DwU9vSduSlfTbzRPF_BJIsh_n-9_kPcmv70IBiRA-NVJPRFfH2cauZzZMg/s200/TV%20SONATA.webp",TV SONATA
